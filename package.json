@@ -1,0 +1,18 @@
+{
+  "name": "leetcode-google-interview-crawler",
+  "version": "1.0.0",
+  "description": "Crawl LeetCode for Google interview experiences",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "axios": "0.27.2",
+    "better-sqlite3": "^12.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.2",
+    "node-cache": "5.1.2"
+  }
+}

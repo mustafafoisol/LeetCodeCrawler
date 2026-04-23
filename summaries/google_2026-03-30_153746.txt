@@ -1,0 +1,57 @@
+LeetCode Discussion Summary — google — 2026-03-30T20:37:46.815Z
+Posts: 3
+================================================================================
+=== Post #7720092 ===
+Title:  Base Salary Range on L4? - Google Warsaw, Poland 
+Author: leetcoder-by-heart | Date: 2026-03-30
+Tags:   Google, Feedback, Compensation
+URL:    https://leetcode.com/discuss/post/7720092/base-salary-range-on-l4-google-warsaw-po-n6qm
+
+Hi,
+
+When a Google recruiter asks me about my expected salary, I assume I need to provide a base salary range. I plan to apply next year and I will have 2.5 YoE at that time and hold a Master's degree in Computer Science, if that's relevant.
+
+What salary range should I provide to be considered competitive? I'm thinking about 24,000 – 28,000 PLN, but I have a feeling that might be too high, even for Google. What are your thoughts? Also, what base salary would you personally suggest for someone with my background — and is a 2,000 PLN spread (e.g. 24K–26K) the right width for a range, or should I go broader?
+
+I recently had an interview at Asana and got rejected — they ranged the Software Engineer position at 23,667 PLN – 33,896 PLN, and offered me 23K. I have 1.5 YoE now.
+
+I've heard that Visa offers 24K – 28K for Senior Software Engineer, which is equivalent to L4 at Google, according to Levels.fyi.
+
+Do you also recommend assessing salary expectations based on specific resources? I'm aware of Glassdoor and Levels.fyi - are they reliable?
+
+================================================================================
+
+=== Post #7714230 ===
+Title:  google 
+Author: Anonymous | Date: 2026-03-29
+Tags:   Google
+URL:    https://leetcode.com/discuss/post/7714230/google-by-anonymous_user-qmbu
+
+Hey community! 👋
+
+I recently cleared my virtual rounds for a Software Engineer II role at Google and have been scheduled for an onsite interview in Bangalore.
+
+I completed the travel form via Graebel a couple of days ago but haven't received any travel booking confirmation or update yet.
+
+For those who have recently gone through Google's onsite interview process:
+
+🔹 How long did it take to hear back from Graebel after submitting the travel form?
+🔹 Did you receive travel confirmations close to the interview date?
+🔹 Any tips or things to expect during the onsite rounds?
+
+Would love to hear from anyone who has recently been through this process! Any insights would be really helpful. 🙏
+
+#Google #GoogleInterview #SoftwareEngineer #Hiring #InterviewPrep #LeetCode #TechInterview #SWE
+
+================================================================================
+
+=== Post #7706811 ===
+Title:  Expected CTC for Google SWE III (L4) – Bangalore (2.3 YOE)
+Author: Anonymous | Date: 2026-03-28
+Tags:   Google, L4 Google
+URL:    https://leetcode.com/discuss/post/7706811/expected-ctc-for-google-swe-iii-l4-banga-sanz
+
+Hi everyone, 
+What CTC can I expect for a SWE III (L4) role at Google, Bangalore? I have 2.3 years of experience.
+
+================================================================================

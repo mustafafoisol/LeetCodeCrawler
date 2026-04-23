@@ -1,0 +1,294 @@
+LeetCode Discussion Summary — google — 2026-04-09T07:11:07.720Z
+Posts: 14
+================================================================================
+=== Post #7836502 ===
+Title:  Google India is quietly becoming a career trap for engineers
+Author: Anonymous | Date: 2026-04-09
+Tags:   Google, Career, Compensation, L4 Google
+URL:    https://leetcode.com/discuss/post/7836502/google-india-is-quietly-becoming-a-caree-kc47
+
+I’m going to be blunt — Google India is not the place it used to be, and for a lot of engineers, it’s starting to feel like a career killer.
+
+The interview process itself should be a red flag. It can stretch for months with no structure — endless DSA prep, long gaps between rounds, “one more round,” and then you’re stuck in team matching limbo. For the amount of effort it demands, the experience is honestly exhausting and poorly run.
+
+Then you get in, and the reality doesn’t match the hype at all. A lot of the work is high-level abstraction, glue code, or maintenance on systems you don’t really own. Decisions are often made elsewhere, and you’re just implementing. It’s hard to grow as an engineer when you’re not actually building or owning meaningful pieces.
+
+Over time, this starts to hurt. People get used to operating at that level of abstraction, and when they move to startups or unicorns, the transition is rough. Not because they aren’t capable — but because they haven’t been working close enough to real systems or ownership.
+
+Layoffs have also made things worse. The “stability” that used to justify choosing Google doesn’t feel as real anymore, and suddenly you’re dealing with all the downsides without that safety net.
+
+And the pay? It’s no longer exceptional. With what strong startups and other companies are offering today, the compensation just doesn’t stand out enough to offset the lack of ownership and slower growth.
+
+The biggest issue is the mismatch: insane effort to get in, underwhelming experience once you’re there. If you actually care about learning, ownership, and long-term growth, this is not the obvious choice anymore.
+
+================================================================================
+
+=== Post #7821696 ===
+Title:   Google Forward Deployed Engineer (FDE)
+Author: Anonymous | Date: 2026-04-08
+Tags:   Google, Microsoft, Amazon, LinkedIn, Palantir Technologies, Atlassian, Career, Feedback, Compensation, Interview
+URL:    https://leetcode.com/discuss/post/7821696/google-forward-deployed-engineer-fde-by-l4th5
+
+Hi Leetcoder,
+
+anyone came across FDE Forward Deployed Engineer opportunities at FAANMG,
+1) how its different from MLE, DS?
+2) how interviews differes for MLE/DS/FDE?
+3) how the pay strucrture changes?( through its very hot jb in market right now just came across about it last week.)
+one of Recuriter reached out for sepcific FDE requirement? they are selling it as very hot job in current market but whats the reality.
+
+share your thoughts.
+
+Thankyou.
+
+================================================================================
+
+=== Post #7827768 ===
+Title:  Google SDE-3 | Phone Screen & Behavioral | Got a second chance for a coding round
+Author: Anonymous | Date: 2026-04-08
+Tags:   Google, Feedback, Phone Screening, Interview, L4 Google, google interview questions
+URL:    https://leetcode.com/discuss/post/7827768/google-sde-3-phone-screen-behavioral-got-pao9
+
+Hi Leetcoders,
+
+I recently had a phone screen interview at Google (based in Warsaw).
+It consisted of 45 mins of coding round + 45 mins behavioral (Googliness) round, all in one day.
+
+The behavioral round went smoothly and I got a positive feedback from it.
+
+The coding round started with a warmup question (the interviewer did not explicitly mention its a warmup, but he made it clear we will have some follow ups after it).
+
+Unfortunately, it took me a lot of time to understand the problem and I got hung up on some implementation details more than I should have. I won't share the exact problem, but the optimal solution involved implementing subsets (backtracking). I was able to code it up, answer follow-up questions, discuss time and space complexity, but it took me whole 45 minutes, so we did not have any time left for another question (which apparently was supposed to be the main one).
+
+It was confirmed in the feedback, that they cannot pass me because I spent all the time on the warmup question, however since I solved it correctly and communicated it properly, they are willing to give me a second chance for a coding round.
+
+I don't know how it will go, but I am already really happy to get this chance, it is my 4th attempt and in all previous attempts I was not even able to come up with a brute force solution.
+
+So, if you are or were in such a situation, keep it up, we will get there!
+
+================================================================================
+
+=== Post #7819881 ===
+Title:  Google L3 Team Matching - 11 Months and Expiring Soon. Anyone else in the same boat?
+Author: Anonymous | Date: 2026-04-08
+Tags:   Google, Career
+URL:    https://leetcode.com/discuss/post/7819881/google-l3-team-matching-11-months-and-ex-xwiq
+
+Timeline: Cleared all onsites & behavioral in May 2025.
+Updates: Only one team match call in October 2025.
+
+My recruiter consistently says there are "no updates." I am now entering the 12th month, which means my packet is probably going to expire in a few weeks.
+
+To be honest, I feel incredibly demoralized. It's exhausting to have prepared so hard, cleared the bar, and stayed hopeful for a year, just to end up with nothing.
+
+Has anyone else experienced this timeline recently?
+
+1. Did your recruiter let you extend the packet, or did you have to re-interview from scratch?
+
+2. How did you mentally bounce back from this?
+Any advice, similar experiences, or motivation would be deeply appreciated.
+
+================================================================================
+
+=== Post #7811123 ===
+Title:  are google interviews happening f2f ?
+Author: r01k12 | Date: 2026-04-07
+Tags:   Google
+URL:    https://leetcode.com/discuss/post/7811123/are-google-interviews-happening-f2f-by-r-9fv3
+
+Hi, I received a call from Google are the onsistes happening at google blr office ?
+
+================================================================================
+
+=== Post #7807781 ===
+Title:  Switch Company PBC
+Author: nidhirajpatel | Date: 2026-04-07
+Tags:   Google
+URL:    https://leetcode.com/discuss/post/7807781/switch-company-pbc-by-nidhirajpatel-te4n
+
+Hi everyone,
+
+I’m currently trying to switch companies and have been applying to many roles, but I’m not getting any interview calls.
+
+Is hiring slow right now, or is there something I should improve in my approach (resume, applications, referrals, etc.)?
+
+Would really appreciate any guidance or shared experiences. Thanks!
+
+================================================================================
+
+=== Post #7803324 ===
+Title:  Applied Scientist at Microsoft v/s Software Engineer at Google
+Author: Anonymous | Date: 2026-04-07
+Tags:   Google, Microsoft, Career, Feedback, Compensation, Interview, L4 Google
+URL:    https://leetcode.com/discuss/post/7803324/applied-scientist-at-microsoft-vs-softwa-vq8g
+
+which option is better to choose in terms of long term perspective ?
+
+having 4 YOE. Compensation is almost same for both.
+
+================================================================================
+
+=== Post #7787293 ===
+Title:  Notice Period doubts
+Author: Anonymous | Date: 2026-04-05
+Tags:   Google, Microsoft, Amazon
+URL:    https://leetcode.com/discuss/post/7787293/notice-period-doubts-by-anonymous_user-mwno
+
+What are best ways to get more calls while serving notice period.
+Can we mention it in resume .
+Anything we can mention on linkedin.
+
+================================================================================
+
+=== Post #7785661 ===
+Title:  Google L4 DSA Phone Screen (India, 5 YOE)
+Author: Anonymous | Date: 2026-04-05
+Tags:   Google, Technical Interview, top interview questions, interview experience, interview question, Interview, L4 Google
+URL:    https://leetcode.com/discuss/post/7785661/google-l4-dsa-phone-screen-india-5-yoe-b-8umr
+
+Hi everyone,
+
+I have my Google SDE-L4 DSA phonescreen/virtual round scheduled for tomorrow (India region), and I have ~5 years of experience.
+
+The interview is 45 minutes total, including introductions and discussion.
+
+I wanted to get a sense from folks who’ve gone through this recently:
+
+What difficulty level should I expect (LeetCode Easy/Medium/Hard)?
+Is it usually one question or multiple?
+How deep do they go into optimizations and edge cases given the time constraint?
+
+Any last-day tips would also be really appreciated!
+
+================================================================================
+
+=== Post #7777574 ===
+Title:  Is Goolge asking multithreading/concurrency questions ? 
+Author: infinitykvs | Date: 2026-04-04
+Tags:   Google, Interview
+URL:    https://leetcode.com/discuss/post/7777574/is-goolge-asking-multithreadingconcurren-mdft
+
+For SDE L4/L5 interviews, how much emphasis is placed on multithreading/concurrency? Are questions usually conceptual, coding-based, or part of system design discussions?
+
+Would love to hear how deeply interviewers expect candidates to go in real-world scenarios.
+
+================================================================================
+
+=== Post #7742939 ===
+Title:  Google | Team Match round with tech lead
+Author: Anonymous | Date: 2026-04-01
+Tags:   Google, L4 Google, team-fit, L1 GOOGLE
+URL:    https://leetcode.com/discuss/post/7742939/google-team-match-round-with-tech-lead-b-3frb
+
+Hi everyone,
+
+I’m currently in the team matching phase for Google L3 (London). I had a team fit call with the Hiring Manager (HM) this past Monday, which I felt went quite well.
+
+Today, my recruiter reached out and informed me that I have another round scheduled—this time with the Tech Lead (TL) of the same team. 
+
+I had a few questions for this round:
+
+- What should I expect in this round? Since the HM call is already done, what is the typical focus for a TL-specific match call?
+- Has anyone else faced two separate calls for the same team? Is this a common part of the process?
+- Will the Tech Lead deep dive into technicals? Should I expect a technical grilling or project deep-dives, or is it still largely a "fit" conversation?
+
+Any guidance or insights from those who have been through the L3 matching process would be greatly appreciated!
+
+***
+
+PS: I’ve already posted my full interview experience and questions on Leetcode so please don't ask for it.
+
+================================================================================
+
+=== Post #7753715 ===
+Title:  Google WSE First Round - What to expect?
+Author: Anonymous | Date: 2026-04-02
+Tags:   Google
+URL:    https://leetcode.com/discuss/post/7753715/google-wse-first-round-what-to-expect-by-ire9
+
+Hey everyone,
+
+I have my first technical round coming up 
+for Google Web Solutions Engineer (WSE) role.
+
+Recruiter said: backend focused DSA, 60 mins coding.
+
+For people who went through this:
+
+1. What kind of problems were asked?
+2. One problem or two?
+3. Easy-Medium or Medium-Hard?
+4. Any tips?
+
+Thanks!
+
+================================================================================
+
+=== Post #7727298 ===
+Title:  Google L3 Application Engineer Role 
+Author: Anonymous | Date: 2026-03-31
+Tags:   Google, Career, Compensation
+URL:    https://leetcode.com/discuss/post/7727298/google-l3-application-engineer-role-by-a-hexq
+
+Hey everyone,
+
+Need some honest advice from folks here.
+
+I have ~3.7 YOE as an SDE (Java backend) and recently got an offer from Google for an Application Engineer (L3) role.
+
+### Offer details:
+- Base: ₹24 L  
+- Bonus: 15%  
+- RSU: $32.5K (4 years, ~38% first year)  (~₹11 L)
+- Joining Bonus: ~₹3 L  
+
+### Current situation:
+- Current base: ₹27 L (WFH)   
+
+---
+
+### My concerns:
+
+1. AE vs SDE
+   - Is moving from SDE → Application Engineer a downgrade in long term?
+   - Does it affect switching later to product/backend roles?
+
+2. Internal tools
+   - Work is on internal systems (not user-facing products)
+   - Does this reduce learning / resume value?
+
+Need Advice on taking the decision, that I should accept or decline?
+
+Thanks in advance!
+
+================================================================================
+
+=== Post #7725096 ===
+Title:  Is .NET a BAD Tech Stack for Switching to Product-Based Companies?
+Author: Anonymous | Date: 2026-03-31
+Tags:   Google, Meta, Microsoft, Amazon, Adobe, PayPal, Career, interview experience, Feedback, job-transition
+URL:    https://leetcode.com/discuss/post/7725096/is-net-a-bad-tech-stack-for-switching-to-2umg
+
+I’m currently working in an MNC with ~1 year of experience, mainly on .NET and Azure.
+
+Lately, I’ve been preparing to switch to a product-based company, but I keep hearing things like:
+“Tech stack matters a lot” or “.NET isn’t preferred in top product companies.”
+
+This has honestly made me a bit confused.
+
+So I wanted to ask directly:
+
+- Do product-based companies actually shortlist based on tech stack?
+- Does working in .NET put me at a disadvantage compared to Java/Node/Python folks?
+- How relevant is .NET in today’s product ecosystem?
+- If I’m open to learning any tech stack, will companies still judge me based on my current experience?
+
+I don’t want to limit myself to just one stack, but at the same time, my experience is tied to .NET right now — and I’m unsure how much that impacts my chances.
+
+Would love honest opinions from people who’ve made similar switches or are already in product-based companies.
+
+Is this a real problem… or just overthinking?
+
+Thanks in advance!
+
+================================================================================

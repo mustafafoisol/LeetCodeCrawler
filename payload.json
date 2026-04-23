@@ -1,0 +1,11 @@
+{
+  "query": "query categoryTopicList($categories: [String!]!, $first: Int!, $orderBy: TopicSortingOption, $skip: Int, $query: String, $tags: [String!]) { categoryTopicList(categories: $categories, first: $first, orderBy: $orderBy, skip: $skip, query: $query, tags: $tags) { totalNum edges { node { id title post { creationDate } tags { slug } } } } }",
+  "variables": {
+    "categories": ["interview-experience"],
+    "first": 5,
+    "skip": 0,
+    "orderBy": "newest_to_oldest",
+    "tags": ["google"],
+    "query": "2026"
+  }
+}
